@@ -1,4 +1,4 @@
-# uol_project_2021
+# uol_finalproject_2021
 This is a repository that contains the final year project at the University of London in 2021. 
 
 # Abstract
