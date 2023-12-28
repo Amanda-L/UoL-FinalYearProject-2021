@@ -1,5 +1,3 @@
-# uol_finalproject_2021
-This is a repository that contains the final year project at the University of London in 2021. 
 
 # Abstract
 Bug-bounty programs (BBPs) are a method utilising crowdsourcing by ethical hackers to improve organisations’ information security. This study aims at showing perspectives from BBPs’ end users through online questionnaire and interviews on ethical hackers, companies, government department and third-party platforms. Before introducing BBPs, some ethical hackers would report bugs to company, but some were not willing to report because of legal jeopardies and unresponsive attitudes from companies. Hence, some may conceal the information or selling it to black market. For organisations, they consider unauthorised testing on websites and systems from unknown testers as illegal or extort actions. Not to mention most companies did not have a proper channel to deliver and response to these reports.
