@@ -5,3 +5,14 @@ Bug-bounty programs (BBPs) are a method utilising crowdsourcing by ethical hacke
 BBPs are a solution to the problems. BBPs provide a cost-effective method for organisations. In the questionnaire, ethical hackers showed positive attitude to keep joining BBPs but have concerns with bugs undervalued. In the interviews, companies shared the insights on running BBPs is a way to build reputation. Government department talked about not using BBPs because of hackers’ unknown identities and law restrictions. They also considered clarity in policies and costs reduction is the benefits of joining BBPs through a third-party platform. To conclude, BBPs is an innovative method for companies to improve information security compare to the traditional way of relying on limited source of IT security expertise such as an IT security company or invited penetration testers. BBPs is a means of utilising crowdsourcing by incentivising skilful ethical hackers with bounties and accumulated reputations. With the access to relatively large pools of expertise and a competitive bounty-earning environment, companies are able to find bugs efficiently and fix it effectively. At the same time, it also mitigates the risks of participants hiding bugs for malicious use. Therefore, BBPs creates a win-win situation for companies and ethical hackers in improving information security.
 
 Keywords: Bug-bounty programs, BBPs, Ethical hackers, Crowdsourcing, Information security
+
+# Surveys and Interviews
+
+## Surveys
+The questionnaire was conducted using Google Form, which is a universal online survey tool and a user-friendly tool for organising respondents’ answers. Respondents are 50+ worldwide ethical hackers and IT researchers. The messages were sent through their website contacts, Twitter direct messages and emails. The questions are designed based on the Technology acceptance model (TAM).
+
+## Interviewees:
+1. Mr Lee, senior security manager from Synology. Inc. headquarters
+2. Mr Wu, director from the National Center for Cyber Security Technology (NCCST) in Taiwan
+3. Mr Tsai, CEO, founder of Hacks in Taiwan Conference (HITCON) community and CEO of TeamT5. Inc.
+4. Mr Tucker, senior director of community from HackerOne
