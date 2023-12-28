@@ -1,5 +1,5 @@
 # Objective
-The objectives of this research are:
+
 1. Analysis of the advantages, and disadvantages from BBPs end-user perspectives.
 2. Elaborate how ethical hackers, companies, government departments, and third-party platforms interpret BBPs, and what affects their attitude of continuing engagement in it.
 
