@@ -13,7 +13,7 @@ Keywords: Bug-bounty programs, BBPs, Ethical hackers, Crowdsourcing, Information
 # Surveys and Interviews
 
 ## Surveys
-The questionnaire was conducted using Google Form, which is a universal online survey tool and a user-friendly tool for organising respondents’ answers. Respondents are 50+ worldwide ethical hackers and IT researchers. The messages were sent through their website contacts, Twitter direct messages and emails. The questions are designed based on the Technology acceptance model (TAM).
+The questionnaire was conducted using Google Form, which is a universal online survey tool and a user-friendly tool for organising respondents’ answers. Respondents are 50+ worldwide ethical hackers and IT researchers. The messages were sent through their website contacts, Twitter direct messages and emails. The questions are designed based on the Technology acceptance model (TAM), and the results were analyzed using SPSS.
 
 ## Interviewees
 1. Mr Lee, senior security manager from Synology. Inc. headquarters
